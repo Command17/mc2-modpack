@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Modpack Version**
-Put the modpack version here
+E.g. 1.0.0
 
 **Describe the bug**
 A clear and concise description of what the bug is.
